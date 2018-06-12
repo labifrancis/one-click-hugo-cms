@@ -52,15 +52,15 @@ This documentation is straight to the point with easy steps and screenshots for 
 **Why do you think SSL/HTTPS is important?
 **
 
-It’s important because of security and SEO. Sites without SSL/HTTPS are prone to malicious attacks and most site visitors don’t trust a site without HTTPS. Therefore, it’s also important because it boosts the credibility of the site and improve the site’s ranking because of Google’s policy to rank such sites higher.
+It’s important because of security and SEO. Sites without SSL/HTTPS are prone to malicious attacks and most site visitors don’t trust a site without HTTPS. Therefore, it’s also important because it boosts the credibility of the site and improves the site’s ranking because of Google’s policy to rank such sites higher.
 
 **Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.
 **
 
-The first challenge for less-technical internet end-users Another challenge is understanding how it works. Most of them do not know about DNS and and how it applies to their site. 
+The first challenge for less-technical internet end-users is understanding how it works. Most of them do not know about DNS and and how it applies to their site. 
 
 
-Another challenge is how to update their DNS. Most of them face this challenge when trying to point their domain to a new host. This can lead to errors while changing the records.
+Another challenge is how to update their DNS. Most users face this challenge when trying to point their domain to a new host. This can lead to errors while changing the records because they don't know how to.
 
 **A customer writes in saying their “site won’t build”.  Compose:**
 
