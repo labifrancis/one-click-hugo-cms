@@ -1,6 +1,6 @@
 ---
 title: My Netlify Assignment
-date: 2016-12-17T15:04:10.000Z
+date: 2018-06-12T16:00:00+01:00
 description: |-
   Welcome.
 
