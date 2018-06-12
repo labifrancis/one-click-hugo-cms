@@ -90,4 +90,4 @@ I set up a redirect for http://labifrancis2.netlify.com/values/ to https://www.g
 
 * **(optional/bonus) Could you give us a suggestion to improve this test or the job posting?**
 
-I saw this job posting in Support Driven Community and I think it's a great way to get people that are passionate about support.
+I saw this job posting in Support Driven Community and I think it's a great way to get people that are passionate about support.  I'll suggest the test to include more customer related questions to see how a candidate responds, basically to check for tone and empathy.
