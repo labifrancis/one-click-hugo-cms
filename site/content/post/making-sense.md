@@ -29,21 +29,21 @@ image: /img/welcome image.png
 
 **What’s my favorite thing about providing support?**
 
-I enjoy doing support because I love to help people solve their problems with the knowledge I have. At the core of why I enjoy doing support is because of the human interaction. From my experience, when I solve a problem for a user, and they’re happy, It’s always priceless when I get a positive feedback from them and it makes me fulfilled.
+I enjoy doing support because I love to help people solve their problems with the knowledge I have. At the core of why I enjoy doing support, is because of the human interaction. From my experience, when I solve a problem for a user, and they’re happy, It’s always priceless when I get a positive feedback from them and it gives me fulfillment.
 
-\*\*What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)
+**What did you think of our service during the time you used it?  Provide either some constructive criticism or some points that impressed you.  Be honest!  “It sucked” isn’t a wrong answer unless you don’t elaborate and provide some constructive criticism ;)**
 
-\*\*
+The service was great at sign up with short descriptions on what Netlify does but it will be better to have a walk through course/article showing how to navigate the platform at first login.
 
 **Talk about how you made your site and why you chose the tools you did.  **
 
-\*\*Briefly explain a challenge you experienced in setting up this site and how you solved it.
+I deployed a CMS on Netlify and set up the content manager immediately because it's easier to manage content on CMS. I think this will be useful for those who are not tech savvy and want to host on Netlify.
 
-\*\*
+**Briefly explain a challenge you experienced in setting up this site and how you solved it.**
 
-\*\*Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.
+The challenge I faced was expecting my commits to be effected immediately but I later realised I have to wait a few seconds or check my Netlify dashboard to see if it's published.
 
-\*\*
+**Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.**
 
 https://en.support.wordpress.com/domains/map-existing-domain/
 
@@ -58,16 +58,36 @@ It’s important because of security and SEO. Sites without SSL/HTTPS are prone 
 **
 
 The first challenge for less-technical internet end-users Another challenge is understanding how it works. Most of them do not know about DNS and and how it applies to their site. 
+
+
 Another challenge is how to update their DNS. Most of them face this challenge when trying to point their domain to a new host. This can lead to errors while changing the records.
 
-A customer writes in saying their “site won’t build”.  Compose:
+**A customer writes in saying their “site won’t build”.  Compose:**
 
-•	your best short (2-paragraph) customer-facing answer, 
+**•	your best short (2-paragraph) customer-facing answer, **
 
-•	without any additional data, 
-•	that could be useful in the generic case, 
+**•	without any additional data, 
+•	that could be useful in the generic case, **
 
-•	but would also lead to a customer providing a more actionable response.
+**•	but would also lead to a customer providing a more actionable response.**
 
 Hi there,
-I’m happy to help. Can you please
+I’m happy to help. Can you please confirm if it builds locally in your own development environment. Once it does, check to make sure the package versions we use to build match yours.
+
+You'll find this documentation useful: https://www.netlify.com/docs/build-gotchas/         I'll be here to help.
+
+Best,
+
+Francis
+
+Netlify Support Engineer
+
+
+
+* **(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?**
+
+I set up a redirect for http://labifrancis2.netlify.com/values/ to https://www.google.com/search?q=anything
+
+* **(optional/bonus) Could you give us a suggestion to improve this test or the job posting?**
+
+I saw this job posting in Support Driven Community and I think it's a great way to get people that are passionate about support.
