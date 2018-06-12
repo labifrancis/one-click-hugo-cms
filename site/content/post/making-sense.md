@@ -72,9 +72,9 @@ Another challenge is how to update their DNS. Most of them face this challenge w
 **•	but would also lead to a customer providing a more actionable response.**
 
 Hi there,
-I’m happy to help. Can you please confirm if it builds locally in your own development environment. Once it does, check to make sure the package versions we use to build match yours.
+I’m happy to help. Can you please confirm if it builds locally in your own development environment? Once it does, check to make sure the package versions we use to build match yours.
 
-You'll find this documentation useful: https://www.netlify.com/docs/build-gotchas/         I'll be here to help.
+You'll find this documentation useful: https://www.netlify.com/docs/build-gotchas/         I'll be here to help if you have further questions.
 
 Best,
 
